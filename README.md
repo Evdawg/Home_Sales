@@ -12,6 +12,7 @@ This project was done in Google Collab notebook.
 ---
 
 Sources:
+
 [1] edX Boot Camps LLC. Module 22, Day 2 Activity 08: Olympic_analysis_solution.ipynb
 	
 
